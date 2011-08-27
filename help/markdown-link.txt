@@ -1,0 +1,8 @@
+*markdown-link* Plugin to make markdown files behave like a wiki
+
+It will make it easy to use Headers as "ancors" that words can link to.  With
+:GenerateWikiLink every header you have will become a new keyword, so it will
+be highlighted like "Label"
+
+If you use the command :FollowWord it will search for an header which title is
+the same of the word under your cursor
